@@ -1,0 +1,35 @@
+.headder{
+    color:rgb(255, 231, 122);
+    padding-top: 10px;
+    font-size: 100px;
+    text-align: center;
+    background: url("file:///C:/Users/pc/Documents/Projects/Project%202%20Arts&Crafts/Resources/Images/pattern.webp"); /* The image used */
+    background-color: rgb(1, 1, 255); /* Used if the image is unavailable */
+    height: 150px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-size: cover;
+}
+.brushes{
+    color:white;
+    font-size: 50px;
+    background-color: rgb(101, 255, 152);
+}
+
+.bold{
+    font-weight: 700;
+    font-size: 20px;
+}
+.frames{
+    color:white;
+    font-size: 50px;
+    background-color: rgb(255, 134, 144);
+}
+.paint{
+    color:white;
+    font-size: 50px;
+    background-color: rgb(98, 209, 253);
+}
+p1,p3,p5{
+    font-size: 20;
+    font-style:italic;
+}
